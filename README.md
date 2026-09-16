@@ -1,6 +1,5 @@
 - 👋 Hi, I’m wajd Alsulaiman  
-- 👀 I’m interested data science 
-- 🌱 I’m currently learning data science
+- Business Analyst | Data Analysis | Product Owner | Health Informatics 
 - 📫 How to reach me: LinkedIn www.linkedin.com/in/wajd-alsulaiman
 
 
